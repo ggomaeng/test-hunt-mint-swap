@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { HuntBuildingsModal, MintSwapModal } from "hunt-mint-swap";
 import "./App.css";
+import "@rainbow-me/rainbowkit/styles.css";
 import "hunt-mint-swap/style.css";
 import { Providers } from "./providers/WagmiProvider";
 
